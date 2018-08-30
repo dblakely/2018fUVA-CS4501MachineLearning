@@ -47,7 +47,7 @@ when you find my typos or have comments. The covered materials are by no means a
 <tr>
 <td>{{ counter }}</td>
 <td><span class="date"> {{ post.date | date: "%-b, %-d "  }}</span></td>
-<td>{{ post.desc }}</td>
+<td>{{ post.desc }}-{{ post.week }}</td>
 
 {% if counter == 0 %}
 <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
