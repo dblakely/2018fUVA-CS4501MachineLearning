@@ -32,7 +32,12 @@ desc: "Information for UVA CS 4501 Machine Learning"
 + ##### [Prof. Yanjun Qi](http://www.cs.virginia.edu/yanjun/); [yanjun@virginia.edu](mailto:yanjun@virginia.edu);  Rice Hall 503 , 243-3089;  Office hours:  Monday 1pm-2pm
 + ##### TAs: Office hours:  TBD
   + [Eamon Collins ](mailto:ec3bd@virginia.edu):   
-  + [Derrick ](mailto:agk7uc@virginia.edu):   
+  + [Derrick Blakely ](mailto:agk7uc@virginia.edu):   
+  + [Jinghui Chen](mailto:jc4zg@virginia.edu): 
+  +
+  + All logistic issues are announced through course [email list](mailto:18f-cs-4501-001@collab.its.virginia.edu)
+  + All late Homeworks should be submitted to 
+  [18f-cs-4501-001-ta@collab.its.virginia.edu](mailto:18f-cs-4501-001-ta@collab.its.virginia.edu)
 
 
 ### Text Book

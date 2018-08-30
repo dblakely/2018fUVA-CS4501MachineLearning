@@ -14,6 +14,6 @@ tags:
 ---
 
 + Course website, collab site and piazza site are ready.
-+ All logistic issues have been announced through course email list 18f-cs-4501-001@collab.its.virginia.edu! 
++ All logistic issues have been announced through course [email list](mailto:18f-cs-4501-001@collab.its.virginia.edu)! 
 + All late Homeworks should be submitted to 
 [18f-cs-4501-001-ta@collab.its.virginia.edu](mailto:18f-cs-4501-001-ta@collab.its.virginia.edu)
