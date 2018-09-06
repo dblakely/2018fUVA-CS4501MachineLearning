@@ -40,7 +40,7 @@ desc: "Information for UVA CS 4501 Machine Learning"
 
 + #### TA office hours: 
   + Derrick's office hour: Tuesday 5pm-7pm in Rice 504  
-  + Eamon's office hour: Thursday 5pm-7pm in Rice 204
+  + Eamon's office hour: Wednesday 5pm-7pm in Rice 204
   + Study Hall (noTA): Thursday 5pm-7pm in Rice 504
 
 + #### Communications: 
