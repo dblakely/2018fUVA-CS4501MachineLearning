@@ -33,7 +33,7 @@ desc: "Information for UVA CS 4501 Machine Learning"
 
 + ##### TAs: 
   + [Eamon Collins ](mailto:ec3bd@virginia.edu):   
-  + [Derrick Blakely ](mailto:agk7uc@virginia.edu):   
+  + [Derrick Blakely ](mailto:dcb7xz@virginia.edu):   
   + [Jinghui Chen](mailto:jc4zg@virginia.edu): 
   + Sanatkumar Kondhol
 
